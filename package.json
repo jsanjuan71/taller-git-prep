@@ -1,0 +1,27 @@
+{
+  "name": "taller-git-prep",
+  "version": "1.0.0",
+  "description": "This project is for prepare the workshop",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsanjuan71/taller-git-prep.git"
+  },
+  "keywords": [
+    "git",
+    "workshop"
+  ],
+  "author": "Julio Sanjuan by UCamp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsanjuan71/taller-git-prep/issues"
+  },
+  "homepage": "https://github.com/jsanjuan71/taller-git-prep#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
