@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jsanjuan71/taller-git-prep/issues"
   },
-  "homepage": "https://github.com/jsanjuan71/taller-git-prep#readme"
+  "homepage": "https://github.com/jsanjuan71/taller-git-prep#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
 }
